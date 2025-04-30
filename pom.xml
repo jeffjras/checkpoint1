@@ -11,7 +11,7 @@
     <groupId>br.com.fiap</groupId>
     <artifactId>fiapcp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>FiapCP</name>
+    <name>fiapcp</name>
     <description>FiapCP</description>
     <url/>
     <licenses>
